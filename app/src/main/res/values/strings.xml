@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">项目基础框架</string>
+    <string name="no_network_connection">无网络连接</string>
+</resources>
